@@ -1,0 +1,31 @@
+# Fichiers d’environnement
+/.env
+/.env.local
+/.env.*.local
+
+# Dépendances et lockfile
+/vendor/
+/composer.lock
+
+# Cache, logs, sessions
+/var/
+/var/*
+!/var/.gitkeep
+
+# Actifs compilés ou téléchargés
+/public/bundles/
+/public/build/
+/node_modules/
+/npm-debug.log
+/yarn-error.log
+
+# Configuration IDE / éditeur
+/.idea/
+
+# Systèmes d’exploitation
+.DS_Store
+Thumbs.db
+
+# Fichiers de déploiement ou temporaires
+/*.log
+*.cache
