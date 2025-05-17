@@ -1,0 +1,23 @@
+{
+    "Titre": "Cuisine",
+    "Noeud": [
+        {
+            "id": 1,
+            "Titre": "Faire un gateau",
+            "Noeud enfant": [
+                {
+                    "id": 1,
+                    "Titre": "Mettre de la farine"
+                },
+                {
+                    "id": 2,
+                    "Titre": "Ajouter du pain"
+                },
+                {
+                    "id": 3,
+                    "Titre": "Huile"
+                }
+            ]
+        }
+    ]
+}
