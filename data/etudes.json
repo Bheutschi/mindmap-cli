@@ -1,0 +1,35 @@
+{
+    "Titre": "Etudes",
+    "Noeud": [
+        {
+            "id": 1,
+            "Titre": "Apprendre le francais",
+            "Noeud enfant": [
+                {
+                    "id": 1,
+                    "Titre": "Apprendre les verbes"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "Titre": "Reviser les maths",
+            "Noeud enfant": [
+                {
+                    "id": 1,
+                    "Titre": "Installer une app de carte mentale"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "Titre": "Faire de la gym",
+            "Noeud enfant": [
+                {
+                    "id": 1,
+                    "Titre": "Acheter des chaussures de sport"
+                }
+            ]
+        }
+    ]
+}
