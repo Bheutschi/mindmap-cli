@@ -1,6 +1,6 @@
 # MindMap CLI
 ## Description
-Un outil CLI pour créer des mindmaps à partir de fichiers markdown. Il permet de visualiser la structure d'un document et de naviguer facilement entre les sections.
+Un outil CLI pour créer des mindmaps à partir de fichiers JSON. Il permet de visualiser la structure d'un document et de naviguer facilement entre les sections.
 
 # Prérequis
 - PHP 8 ou supérieur
